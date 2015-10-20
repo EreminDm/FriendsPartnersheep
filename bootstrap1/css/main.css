@@ -2631,3 +2631,8 @@ img
 {
     color: #C6E2FF !important;
 }
+@media (max-device-width:420px) {
+    i.fa.fa-angle-down{
+        display:none;
+    }
+}
