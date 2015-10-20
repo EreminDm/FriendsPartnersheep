@@ -2,7 +2,7 @@
 
 <asp:Content runat="server" ContentPlaceHolderID="main_inner">
     <section id="main-slider" class="no-margin">
-        <div class="carousel slide">
+        <div class="carousel slide"  data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#main-slider" data-slide-to="0" class="active"></li>
                 <li data-target="#main-slider" data-slide-to="1"></li>
