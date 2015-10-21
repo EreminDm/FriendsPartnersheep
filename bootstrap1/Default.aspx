@@ -10,20 +10,20 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
+                <div class="item active" style="background-image: url(images/slider/bg-town.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web sites.</h1>
-                                    <h2 class="animation animated-item-2">Bootstrap is completely free to download and use!</h2>
-                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                    <h1 class="animation animated-item-1">Тезис</h1>
+                                    <h2 class="animation animated-item-2">краткое описание</h2>
+                                 <!--   <a class="btn-slide animation animated-item-3" href="#">Read More</a>-->
                                 </div>
                             </div>
 
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <img src="images/slider/img1.png" class="img-responsive">
+                                  <!--  <img src="images/slider/img1.png" class="img-responsive"> -->
                                 </div>
                             </div>
 
@@ -31,20 +31,20 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(images/slider/bg2.jpg)">
+                <div class="item" style="background-image: url(images/slider/bg-town2.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">What is Responsive Web Design?</h1>
-                                    <h2 class="animation animated-item-2">Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops.</h2>
-                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                    <h1 class="animation animated-item-1">Тезис</h1>
+                                    <h2 class="animation animated-item-2">краткое описание</h2>
+                                  <!--  <a class="btn-slide animation animated-item-3" href="#">Read More</a> -->
                                 </div>
                             </div>
 
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <img src="images/slider/img2.png" class="img-responsive">
+                                <!--    <img src="images/slider/img2.png" class="img-responsive">-->
                                 </div>
                             </div>
 
@@ -52,19 +52,19 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(images/slider/bg3.jpg)">
+                <div class="item" style="background-image: url(images/slider/bg-led.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Mobile-first approach</h1>
-                                    <h2 class="animation animated-item-2">In Bootstrap 3, mobile-first styles are part of the core framework</h2>
-                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                    <h1 class="animation animated-item-1">Тезис</h1>
+                                    <h2 class="animation animated-item-2">краткое описание</h2>
+                                  <!--  <a class="btn-slide animation animated-item-3" href="#">Read More</a> -->
                                 </div>
                             </div>
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <img src="images/slider/img3.png" class="img-responsive">
+                           <!--         <img src="images/slider/img3.png" class="img-responsive">-->
                                 </div>
                             </div>
                         </div>
