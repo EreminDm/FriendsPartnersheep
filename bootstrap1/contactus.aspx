@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" %>
 
-<asp:Content runat="server" ContentPlaceHolderID="main_inner">
+<asp:content runat="server" contentplaceholderid="main_inner">
     <section id="contact-info">
      <br /> <br />  
         <div class="center">                
@@ -75,36 +75,55 @@
                 <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
                     <div class="col-sm-5 col-sm-offset-1">
                         <div class="form-group">
-                            <label>Name *</label>
-                               <asp:TextBox ID="txtName" CssClass="form-control" runat="server" required="required"></asp:TextBox>
+                            <label>Имя *</label>
+                               <asp:TextBox ID="txtName" CssClass="form-control" runat="server"></asp:TextBox>
+                                <asp:RequiredFieldValidator ID="txtNameNotNull" runat="server"     
+                                    ErrorMessage="Укажите Ваше имя." 
+                                    ControlToValidate="txtName"/>
                              </div>
                         <div class="form-group">
                             <label>Email *</label>
-                            <asp:TextBox ID="txtemail" CssClass="form-control" runat="server" required="required"></asp:TextBox>
-                          
+                            <asp:TextBox ID="txtemail" CssClass="form-control" runat="server" ></asp:TextBox>
+                            <asp:RequiredFieldValidator ID="txtemailNotNull" runat="server"     
+                                    ErrorMessage="Введите Ваш email." 
+                                    ControlToValidate="txtemail"/>
+                            <asp:RegularExpressionValidator ID="regexpMail" runat="server"     
+                                    ErrorMessage="Проверьте правильность ввода email." 
+                                    ControlToValidate="txtemail"     
+                                    ValidationExpression="^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.(([0-9]{1,3})|([a-zA-Z]{2,3})|(aero|coop|info|museum|name))$" />
                         </div>
                         <div class="form-group">
-                            <label>Phone</label>
-                            <input type="number" class="form-control">
+                            <label>Сотовый номер *</label>
+                            <asp:TextBox ID="txtPhone" CssClass="form-control" runat="server" ></asp:TextBox>
+                            <asp:RequiredFieldValidator ID="txtPhoneNotNull" runat="server"     
+                                    ErrorMessage="Введите Ваш номер сотового телефона." 
+                                    ControlToValidate="txtPhone"/>
                         </div>
                         <div class="form-group">
-                            <label>Company Name</label>
-                          <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control" required="required"></asp:TextBox>
+                            <label>Company Name *</label>
+                            <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control" required="required"></asp:TextBox>
+                            <asp:RequiredFieldValidator ID="txtcmpnmNotNull" runat="server"     
+                                    ErrorMessage="Укажите название Вашей компании." 
+                                    ControlToValidate="txtcmpnm"/>
                         </div>                        
                     </div>
                     <div class="col-sm-5">
                         <div class="form-group">
                             <label>Subject *</label>
                             <asp:TextBox ID="txtsubject" runat="server" CssClass="form-control" required="required"></asp:TextBox>
-                            
+                            <asp:RequiredFieldValidator ID="txtsubjectNotNull" runat="server"     
+                                    ErrorMessage="Укажите тему письма." 
+                                    ControlToValidate="txtsubject"/>
                         </div>
                         <div class="form-group">
                             <label>Message *</label>
                             <asp:TextBox ID="txtmsg" runat="server" CssClass="form-control" required="required" Rows="8" TextMode="MultiLine"></asp:TextBox>
-                           
+                            <asp:RequiredFieldValidator ID="txtmsgNotNull" runat="server"     
+                                    ErrorMessage="Укажите текст письма." 
+                                    ControlToValidate="txtmsg"/>
                         </div>                        
                         <div class="form-group">
-                            <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit Message</button>
+                            <asp:Button runat="server" ID="Submit" CssClass="btn btn-primary btn-lg" Text="Submit Message" onclick="Submit_Click" />
                         </div>
                     </div>
                 </form> 
@@ -112,4 +131,4 @@
         </div><!--/.container-->
     </section>
     <!--/#contact-page-->
-</asp:Content>
+</asp:content>
