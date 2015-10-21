@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Net.Mail;
 using System.Web;
@@ -10,31 +11,34 @@ public partial class contactus : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
+        txtName.Text = String.Empty;
+        txtemail.Text = String.Empty; 
+        txtPhone.Text = String.Empty;
+        txtcmpnm.Text = String.Empty;
+        txtsubject.Text = String.Empty;
+        txtmsg.Text = String.Empty;
     }
 
     public void Submit_Click(object sender, EventArgs e)
     {
-        try
+        using (MailMessage mailMessage = new MailMessage())
         {
-            SmtpClient smtpClient = new SmtpClient("smtp.gmail.com", 587);
-
-            smtpClient.Credentials = new System.Net.NetworkCredential("iliastetsun@gmail.com", "NenDdjlbnczNtrcn5483undSend3n");
-            smtpClient.UseDefaultCredentials = false;
-            smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
-            smtpClient.EnableSsl = true;
-            MailMessage mail = new MailMessage();
-
-            //Setting From , To and CC
-            mail.From = new MailAddress(txtemail.Text);
-            mail.To.Add(new MailAddress("iliastetsun@gmail.com"));
-            mail.CC.Add(new MailAddress("iliastetsun@gmail.com"));
-            mail.Subject = txtsubject.Text+" "+txtcmpnm.Text+" "+txtName.Text;
-            mail.Body = txtmsg.Text;
-
-            smtpClient.Send(mail);
-        }
-        catch (Exception ee)
-        {
+            mailMessage.From = new MailAddress(txtemail.Text);
+            mailMessage.Subject = txtsubject.Text + " " + txtcmpnm.Text + " " + txtName.Text;
+            mailMessage.Body = txtmsg.Text;
+            mailMessage.IsBodyHtml = true;
+            mailMessage.To.Add("iliastetsun@gmail.com");
+            mailMessage.To.Add("eremin.dm@gmail.com");
+            SmtpClient smtp = new SmtpClient();
+            smtp.Host = "smtp.gmail.com";
+            smtp.EnableSsl = true;
+            System.Net.NetworkCredential NetworkCred = new System.Net.NetworkCredential();
+            NetworkCred.UserName = "iliastetsun@gmail.com";
+            NetworkCred.Password = "NenDdjlbnczNtrcn5483undSend3n";
+            smtp.UseDefaultCredentials = true;
+            smtp.Credentials = NetworkCred;
+            smtp.Port = 587;
+            smtp.Send(mailMessage);            
         }
     }
 }

@@ -82,7 +82,7 @@
                                     ControlToValidate="txtName"/>
                              </div>
                         <div class="form-group">
-                            <label>Email *</label>
+                            <label>Почтовый адрес *</label>
                             <asp:TextBox ID="txtemail" CssClass="form-control" runat="server" ></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtemailNotNull" runat="server"     
                                     ErrorMessage="Введите Ваш email." 
@@ -93,31 +93,28 @@
                                     ValidationExpression="^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.(([0-9]{1,3})|([a-zA-Z]{2,3})|(aero|coop|info|museum|name))$" />
                         </div>
                         <div class="form-group">
-                            <label>Сотовый номер *</label>
+                            <label>Контактный телефон *</label>
                             <asp:TextBox ID="txtPhone" CssClass="form-control" runat="server" ></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtPhoneNotNull" runat="server"     
-                                    ErrorMessage="Введите Ваш номер сотового телефона." 
+                                    ErrorMessage="Введите номер Вашего контактного телефона." 
                                     ControlToValidate="txtPhone"/>
                         </div>
                         <div class="form-group">
-                            <label>Company Name *</label>
-                            <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control" required="required"></asp:TextBox>
-                            <asp:RequiredFieldValidator ID="txtcmpnmNotNull" runat="server"     
-                                    ErrorMessage="Укажите название Вашей компании." 
-                                    ControlToValidate="txtcmpnm"/>
+                            <label>Компания</label>
+                            <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control"></asp:TextBox>
                         </div>                        
                     </div>
                     <div class="col-sm-5">
                         <div class="form-group">
-                            <label>Subject *</label>
-                            <asp:TextBox ID="txtsubject" runat="server" CssClass="form-control" required="required"></asp:TextBox>
+                            <label>Тема *</label>
+                            <asp:TextBox ID="txtsubject" runat="server" CssClass="form-control"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtsubjectNotNull" runat="server"     
                                     ErrorMessage="Укажите тему письма." 
                                     ControlToValidate="txtsubject"/>
                         </div>
                         <div class="form-group">
-                            <label>Message *</label>
-                            <asp:TextBox ID="txtmsg" runat="server" CssClass="form-control" required="required" Rows="8" TextMode="MultiLine"></asp:TextBox>
+                            <label>Сообщение *</label>
+                            <asp:TextBox ID="txtmsg" runat="server" CssClass="form-control" Rows="8" TextMode="MultiLine"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtmsgNotNull" runat="server"     
                                     ErrorMessage="Укажите текст письма." 
                                     ControlToValidate="txtmsg"/>
