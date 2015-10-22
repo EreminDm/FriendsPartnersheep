@@ -27,8 +27,25 @@
                                     <p class="lead">
                                         $21.000</p>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item list-group-item  col-xs-4 col-lg-4">
+                    <div class="thumbnail">
+                        <a rel="prettyPhoto" title="Экран" href="images/portfolio/full/item1.jpg">
+                            <img class="group list-group-image" alt="Экран" src="images/portfolio/recent/item1.png" />
+                        </a>
+                        <div class="caption">
+                            <h4 class="group inner list-group-item-heading">
+                                Product title</h4>
+                            <p class="group inner list-group-item-text">
+                                Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                                sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                            <div class="row">
                                 <div class="col-xs-12 col-md-6">
-                                    <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
+                                    <p class="lead">
+                                        $21.000</p>
                                 </div>
                             </div>
                         </div>
@@ -50,9 +67,6 @@
                                     <p class="lead">
                                         $21.000</p>
                                 </div>
-                                <div class="col-xs-12 col-md-6">
-                                    <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -72,32 +86,6 @@
                                 <div class="col-xs-12 col-md-6">
                                     <p class="lead">
                                         $21.000</p>
-                                </div>
-                                <div class="col-xs-12 col-md-6">
-                                    <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item list-group-item  col-xs-4 col-lg-4">
-                    <div class="thumbnail">
-                        <a rel="prettyPhoto" title="Экран" href="images/portfolio/full/item1.jpg">
-                            <img class="group list-group-image" alt="Экран" src="images/portfolio/recent/item1.png" />
-                        </a>
-                        <div class="caption">
-                            <h4 class="group inner list-group-item-heading">
-                                Product title</h4>
-                            <p class="group inner list-group-item-text">
-                                Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                                sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                            <div class="row">
-                                <div class="col-xs-12 col-md-6">
-                                    <p class="lead">
-                                        $21.000</p>
-                                </div>
-                                <div class="col-xs-12 col-md-6">
-                                    <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
                                 </div>
                             </div>
                         </div>
