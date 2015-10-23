@@ -56,7 +56,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="Default.aspx"><img src="images/logo.png" alt="logo"></a>
+                    <a class="navbar-brand" href="Default.aspx"><img src="images/led-logo.png" alt="logo"></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -88,8 +88,8 @@
         </div>
     </form>
 
-    <section id="bottom">
-        <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+    <!-- <section id="bottom">
+       <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms"> 
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
@@ -105,7 +105,7 @@
                         </ul>
                     </div>
                 </div>
-                <!--/.col-md-3-->
+              
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
@@ -121,7 +121,7 @@
                         </ul>
                     </div>
                 </div>
-                <!--/.col-md-3-->
+            
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
@@ -137,7 +137,7 @@
                         </ul>
                     </div>
                 </div>
-                <!--/.col-md-3-->
+              
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
@@ -153,17 +153,17 @@
                         </ul>
                     </div>
                 </div>
-                <!--/.col-md-3-->
-            </div>
+                
+            </div> 
         </div>
-    </section>
+    </section> -->
     <!--/#bottom-->
     <footer id="footer" class="midnight-blue">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2015 <a target="_blank" href="http://aspxtemplates.com/" title="Free Twitter Bootstrap asp.net templates">aspxtemplates</a>. All Rights Reserved.
-                </div>
+                    &copy; 2015 <a target="_blank" href="http://ledproduct.com/" title="Led экраны">LED product</a>.
+                </div> 
                 <div class="col-sm-6">
                     <ul class="pull-right">
                         <li><a href="Default.aspx">О компании</a></li>

@@ -10,12 +10,7 @@ public partial class contactus : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        txtName.Text = String.Empty;
-        txtemail.Text = String.Empty;
-        txtPhone.Text = String.Empty;
-        txtcmpnm.Text = String.Empty;
-        txtsubject.Text = String.Empty;
-        txtmsg.Text = String.Empty;
+
     }
 
     public void Submit_Click(object sender, EventArgs e)
@@ -40,7 +35,12 @@ public partial class contactus : System.Web.UI.Page
                 smtp.Credentials = NetworkCred;
                 smtp.Port = 587;
                 smtp.Send(mailMessage);
-
+                txtName.Text = String.Empty;
+                txtemail.Text = String.Empty;
+                txtPhone.Text = String.Empty;
+                txtcmpnm.Text = String.Empty;
+                txtsubject.Text = String.Empty;
+                txtmsg.Text = String.Empty;
             }
         }
         catch (Exception ee)
