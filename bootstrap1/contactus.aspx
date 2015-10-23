@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" Title="Контакты | LED product" %>
 
 <asp:content runat="server" contentplaceholderid="main_inner">
     <section id="contact-info">
@@ -116,7 +116,7 @@
                                     ControlToValidate="txtmsg"/>
                         </div>                        
                         <div class="form-group">
-                            <asp:Button runat="server" ID="Submit" CssClass="btn btn-primary btn-lg" Text="Submit Message" onclick="Submit_Click" />
+                            <asp:Button runat="server" ID="Submit" CssClass="btn btn-primary btn-lg" Text="Отправить сообщение" onclick="Submit_Click" />
                         </div>
                     </div>
                 </form> 

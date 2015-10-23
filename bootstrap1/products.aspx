@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="products.aspx.cs" Inherits="portfolio" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="products.aspx.cs" Inherits="portfolio" Title="Продукция | LED product" %>
 
 <asp:Content runat="server" ContentPlaceHolderID="main_inner">
     <section id="portfolio">
         <div class="container">
             <div class="center">
-               <h2>Портфолио</h2>
-               <p class="lead">В данном разделе Вы можете ознакомиться с нашими работами.<br /> При клике на картинку открывается полная версия.</p>
+               <h2>Продукция</h2>
+               <p class="lead">В данном разделе Вы можете ознакомиться с нашей продукцией.<br /> При клике на картинку открывается полная версия.</p>
             </div>
             <section>
                 <a name="section1"></a>
