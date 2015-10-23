@@ -88,8 +88,8 @@
         </div>
     </form>
 
-    <section id="bottom">
-       <!-- <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms"> 
+    <!-- <section id="bottom">
+       <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms"> 
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
@@ -155,14 +155,14 @@
                 </div>
                 
             </div> 
-        </div> -->
-    </section>
+        </div>
+    </section> -->
     <!--/#bottom-->
     <footer id="footer" class="midnight-blue">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2015 <a target="_blank" href="http://aspxtemplates.com/" title="Free Twitter Bootstrap asp.net templates">aspxtemplates</a>. All Rights Reserved.
+                    &copy; 2015 <a target="_blank" href="http://ledproduct.com/" title="Led экраны">LED product</a>.
                 </div> 
                 <div class="col-sm-6">
                     <ul class="pull-right">

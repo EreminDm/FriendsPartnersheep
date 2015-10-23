@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" Title="Контакты | LED product" %>
 
 <asp:content runat="server" contentplaceholderid="main_inner">
     <section id="contact-info">
      <br /> <br />  
         <div class="center">                
-            <h2>How to Reach Us?</h2>
-            <p class="lead">Get In Touch. More Bootstrap Templates will Update soon only for dot.net users...</p>
+            <h2>Как с нами связаться?</h2>
+            <p class="lead">Выберите любой удобный вид связи для Вас.</p>
      
         </div>
         <div class="gmap-area">
@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-sm-5 text-center">
                         <div class="gmap">
-                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=JoomShaper,+Dhaka,+Dhaka+Division,+Bangladesh&amp;aq=0&amp;oq=joomshaper&amp;sll=37.0625,-95.677068&amp;sspn=42.766543,80.332031&amp;ie=UTF8&amp;hq=JoomShaper,&amp;hnear=Dhaka,+Dhaka+Division,+Bangladesh&amp;ll=23.73854,90.385504&amp;spn=0.001515,0.002452&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=1073661719450182870&amp;output=embed"></iframe>
+                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s&amp;hl=en&amp;geocode=&amp;aq=0&amp;ie=UTF8&amp;ll=43.2065106,76.9143237&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
                         </div>
                     </div>
 
@@ -21,38 +21,34 @@
                         <ul class="row">
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Head Office</h5>
-                                    <p>4587 Hitech Street <br>
-                                    HYD, DS 75864</p>
-                                    <p>Phone:123-456-7894 <br>
-                                    Email Address:info@strap.com</p>
+                                    <h5>Головной офис</h5>
+                                    <p>111 Аль-Фараби <br></p>
+                                    <p>Телефон:+7 777 1234567 <br>
+                                    Email адрес:mail@mail.mail</p>
                                 </address>
 
                                 <address>
-                                    <h5>Zone2 Office</h5>
-                                    <p>4587 Hitech Street <br>
-                                    HYD, DS 75864</p>
-                                    <p>Phone:123-456-7894 <br>
-                                    Email Address:info@strap.com</p>
+                                    <h5>Филиал первый</h5>
+                                    <p>111 Аль-Фараби <br></p>
+                                    <p>Телефон:+7 777 1234567 <br>
+                                    Email адрес:mail@mail.mail</p>
                                 </address>
                             </li>
 
 
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Zone1 Office</h5>
-                                   <p>4587 Hitech Street <br>
-                                    HYD, DS 75864</p>
-                                    <p>Phone:123-456-7894 <br>
-                                    Email Address:info@strap.com</p>
+                                    <h5>Филиал первый</h5>
+                                   <p>111 Аль-Фараби <br></p>
+                                    <p>Телефон:+7 777 1234567 <br>
+                                    Email адрес:mail@mail.mail</p>
                                 </address>
 
                                 <address>
-                                    <h5>Zone3 Office</h5>
-                                  <p>4587 Hitech Street <br>
-                                    HYD, DS 75864</p>
-                                    <p>Phone:123-456-7894 <br>
-                                    Email Address:info@strap.com</p>
+                                    <h5>Склад</h5>
+                                  <p>111 Аль-Фараби <br></p>
+                                    <p>Телефон:+7 777 1234567 <br>
+                                    Email адрес:mail@mail.mail</p>
                                 </address>
                             </li>
                         </ul>
@@ -67,8 +63,8 @@
         <br />
         <br />
             <div class="center">        
-                <h2>Drop Your Message</h2>
-                <p class="lead">We will get back you soon. Keep In Touch. For More Bootstrap asp.net Templates..</p>
+                <h2>Есть вопросы?</h2>
+                <p class="lead">Пишите нам. Мы ответим Вам как можно скорее</p>
             </div> 
             <div class="row contact-wrap"> 
                 <div class="status alert alert-success" style="display: none"></div>
@@ -93,37 +89,34 @@
                                     ValidationExpression="^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.(([0-9]{1,3})|([a-zA-Z]{2,3})|(aero|coop|info|museum|name))$" />
                         </div>
                         <div class="form-group">
-                            <label>Сотовый номер *</label>
+                            <label>Контактный номер *</label>
                             <asp:TextBox ID="txtPhone" CssClass="form-control" runat="server" ></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtPhoneNotNull" runat="server"     
-                                    ErrorMessage="Введите Ваш номер сотового телефона." 
+                                    ErrorMessage="Введите Ваш контактный номер." 
                                     ControlToValidate="txtPhone"/>
                         </div>
                         <div class="form-group">
-                            <label>Company Name *</label>
-                            <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control" required="required"></asp:TextBox>
-                            <asp:RequiredFieldValidator ID="txtcmpnmNotNull" runat="server"     
-                                    ErrorMessage="Укажите название Вашей компании." 
-                                    ControlToValidate="txtcmpnm"/>
+                            <label>Название компании</label>
+                            <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control"></asp:TextBox>
                         </div>                        
                     </div>
                     <div class="col-sm-5">
                         <div class="form-group">
-                            <label>Subject *</label>
-                            <asp:TextBox ID="txtsubject" runat="server" CssClass="form-control" required="required"></asp:TextBox>
+                            <label>Тема *</label>
+                            <asp:TextBox ID="txtsubject" runat="server" CssClass="form-control"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtsubjectNotNull" runat="server"     
-                                    ErrorMessage="Укажите тему письма." 
+                                    ErrorMessage="Укажите тему сообщения." 
                                     ControlToValidate="txtsubject"/>
                         </div>
                         <div class="form-group">
-                            <label>Message *</label>
-                            <asp:TextBox ID="txtmsg" runat="server" CssClass="form-control" required="required" Rows="8" TextMode="MultiLine"></asp:TextBox>
+                            <label>Текст сообщения *</label>
+                            <asp:TextBox ID="txtmsg" runat="server" CssClass="form-control" Rows="10" TextMode="MultiLine"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtmsgNotNull" runat="server"     
-                                    ErrorMessage="Укажите текст письма." 
+                                    ErrorMessage="Укажите текст сообщения." 
                                     ControlToValidate="txtmsg"/>
                         </div>                        
                         <div class="form-group">
-                            <asp:Button runat="server" ID="Submit" CssClass="btn btn-primary btn-lg" Text="Submit Message" onclick="Submit_Click" />
+                            <asp:Button runat="server" ID="Submit" CssClass="btn btn-primary btn-lg" Text="Отправить сообщение" onclick="Submit_Click" />
                         </div>
                     </div>
                 </form> 
