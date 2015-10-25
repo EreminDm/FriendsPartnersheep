@@ -31,6 +31,9 @@
                         </div>
                     </div>
                 </div>
+                  <section>
+                <a name="section2"></a>
+            </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
                         <a rel="prettyPhoto" title="Экран" href="images/portfolio/full/item1.jpg">
@@ -51,6 +54,9 @@
                         </div>
                     </div>
                 </div>
+                  <section>
+                <a name="section3"></a>
+            </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
                         <a rel="prettyPhoto" title="Экран" href="images/portfolio/full/item1.jpg">
@@ -71,6 +77,9 @@
                         </div>
                     </div>
                 </div>
+                  <section>
+                <a name="section4"></a>
+            </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
                         <a rel="prettyPhoto" title="Экран" href="images/portfolio/full/item1.jpg">
