@@ -206,7 +206,7 @@
 
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="accordion">
-                        <h2>Почему Led product</h2>
+                        <h2>Почему LED product</h2>
                         <div class="panel-group" id="accordion1">
                           <div class="panel panel-default">
                             <div class="panel-heading active">
@@ -222,7 +222,7 @@
                               <div class="panel-body">
                                   <div class="media accordion-inner">
                                         <div class="pull-left">
-                                            <img class="img-responsive" src="images/led-logo-black.png">
+                                            <img class="img-responsive" src="images/logo.png">
                                         </div>
                                         <div class="media-body">
                                              <h4>Подзаголовок</h4>
