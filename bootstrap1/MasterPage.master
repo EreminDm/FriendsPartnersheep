@@ -66,11 +66,10 @@
                         <li class="dropdown">
                             <a href="products.aspx" class="dropdown-toggle disabled" data-toggle="dropdown">Продукция <i class="fa fa-angle-down"></i></a> <!-- Если нужно выпилить переход с верхнего раздела - disabled убрать. Тупо в мобильной версии -->
                             <ul class="dropdown-menu">
-                                <li><a href="products.aspx#section1" class="external">Led экран 1</a></li> <!-- Для перехода на конкретный раздел на странице products.aspx использовать следующую структуру
+                                <li><a href="products.aspx#section1" class="external">NovaStar S50</a></li> <!-- Для перехода на конкретный раздел на странице products.aspx использовать следующую структуру
                                                                                                            <section>  <a name="section1"> CONTENT </a> </section>-->
-                                <li><a href="products.aspx#section2" class="external">Led экран 2</a></li>
-                                <li><a href="products.aspx#section3" class="external">Led экран 3</a></li>
-                                <li><a href="products.aspx#section4" class="external">Led экран 4</a></li>
+                                <li><a href="products.aspx#section2" class="external">NovaStar Р10, Р16</a></li>
+                                <li><a href="products.aspx#section3" class="external">NovaStar Р6, Р8</a></li>
                             </ul>
                         </li>
                         <li><a href="portfolio.aspx">Галерея</a></li> 
