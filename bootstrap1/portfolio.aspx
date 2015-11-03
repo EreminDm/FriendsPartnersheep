@@ -31,6 +31,23 @@
                         </div>
                     </div><!--/.portfolio-item-->
 
+                    <!--block with video-->
+                    <div class="portfolio-item apps col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/item1.jpg" alt="YouTube">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <h3><a href="#">Business theme</a></h3>
+                                    <p>There are many variations of passages of contents available, but the majority</p>
+                                    <div id="video_player">
+                                    <a class="preview" href="https://www.youtube.com/watch?v=pSiIHe2uZ2w" rel="prettyPhoto" title="My YouTube Video"><i class="fa fa-eye"></i> View</a>
+                                </div>
+                                </div> 
+                            </div>
+                        </div>
+                    </div>
+                    <!--/.block with video-->
+
                     <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item2.jpg" alt="">
