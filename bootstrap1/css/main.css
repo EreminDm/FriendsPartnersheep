@@ -4,6 +4,12 @@
 /*************************
 *******Typography******
 **************************/
+div.services{
+      height: 235px;
+}
+div.services p.lead{
+  padding-top:2%;
+}
 
 body {
   background: #fff;
@@ -2608,8 +2614,10 @@ shortcodes page css
 
 img
 {
+    float: left;
+    padding: 2%;
     border: 0;
-   max-width: 100%;
+    max-width: 100%;
     height: auto;
     width: auto\9; /* ie8 */
 }
