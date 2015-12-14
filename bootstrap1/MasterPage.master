@@ -66,15 +66,15 @@
                         <li class="dropdown">
                             <a href="products.aspx" class="dropdown-toggle disabled" data-toggle="dropdown">Продукция <i class="fa fa-angle-down"></i></a> <!-- Если нужно выпилить переход с верхнего раздела - disabled убрать. Тупо в мобильной версии -->
                             <ul class="dropdown-menu">
-                                <li><a href="products.aspx#section1" class="external hidden-xs">NovaStar S50</a></li> <!-- Для перехода на конкретный раздел на странице products.aspx использовать следующую структуру
-                                                                                                           <section>  <a name="section1"> CONTENT </a> </section>-->
-                                <li><a href="products.aspx#section2" class="external hidden-xs">NovaStar Р10, Р16</a></li>
-                                <li><a href="products.aspx#section3" class="external hidden-xs">NovaStar Р6, Р8</a></li>
-                                <li><a href="products.aspx#section4" class="external hidden-xs">Ao-S10</a></li>
-                                <li><a href="products.aspx#section5" class="external hidden-xs">TH-4</a></li>
-                                <li><a href="products.aspx#section6" class="external hidden-xs">Ai-S5</a></li>
-                                <li><a href="products.aspx#section7" class="external hidden-xs">Ai-S7.62</a></li>
-                                <li><a href="products.aspx#section8" class="external hidden-xs">Ai-S10</a></li>
+                                <li><a href="products.aspx#item1" class="external hidden-xs">NovaStar S50</a></li> <!-- Для перехода на конкретный раздел на странице products.aspx использовать следующую структуру
+                                                                                                           <section>  <a name="item1"> CONTENT </a> </section>-->
+                                <li><a href="products.aspx#item2" class="external hidden-xs">NovaStar Р10, Р16</a></li>
+                                <li><a href="products.aspx#item3" class="external hidden-xs">NovaStar Р6, Р8</a></li>
+                                <li><a href="products.aspx#item4" class="external hidden-xs">Ao-S10</a></li>
+                                <li><a href="products.aspx#item5" class="external hidden-xs">TH-4</a></li>
+                                <li><a href="products.aspx#item6" class="external hidden-xs">Ai-S5</a></li>
+                                <li><a href="products.aspx#item7" class="external hidden-xs">Ai-S7.62</a></li>
+                                <li><a href="products.aspx#item8" class="external hidden-xs">Ai-S10</a></li>
                             </ul>
                         </li>
                         <li><a href="portfolio.aspx">Галерея</a></li> 

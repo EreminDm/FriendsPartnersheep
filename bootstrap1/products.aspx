@@ -8,7 +8,7 @@
                <p class="lead">В данном разделе Вы можете ознакомиться с нашей продукцией.<br /> При клике на картинку открывается полная версия.</p>
             </div>
             <section>
-                <a name="section1"></a>
+                <a name="item1"></a>
             </section>
              <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
@@ -32,7 +32,7 @@
                     </div>
                 </div>
             <section>
-                <a name="section2"></a>
+                <a name="item2"></a>
             </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
@@ -55,7 +55,7 @@
                     </div>
                 </div>
             <section>
-                <a name="section3"></a>
+                <a name="item3"></a>
             </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
@@ -88,7 +88,7 @@
                     </div>
                 </div>
             <section>
-                <a name="section4"></a>
+                <a name="item4"></a>
             </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
@@ -249,7 +249,7 @@
                     </div>
                 </div>
             <section>
-                <a name="section5"></a>
+                <a name="item5"></a>
             </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
@@ -407,7 +407,7 @@
                     </div>
                 </div>
             <section>
-                <a name="section6"></a>
+                <a name="item6"></a>
             </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
@@ -565,7 +565,7 @@
                     </div>
                 </div>
             <section>
-                <a name="section7"></a>
+                <a name="item7"></a>
             </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
@@ -714,6 +714,7 @@
                                     <li class="active"><a data-toggle="pill" href="#section7">Описание</a></li>
                                     <li><a data-toggle="pill" href="#section8">Технические характеристики</a></li>
                                     </ul>
+                            </div>
                             </p>
                             <div class="row">
                                 <div class="col-xs-12 col-md-6">
@@ -725,7 +726,7 @@
                     </div>
                 </div>
             <section>
-                <a name="section8"></a>
+                <a name="item8"></a>
             </section>
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
@@ -873,6 +874,7 @@
                                     <li class="active"><a data-toggle="pill" href="#section9">Описание</a></li>
                                     <li><a data-toggle="pill" href="#section10">Технические характеристики</a></li>
                                     </ul>
+                            </div>
                             </p>
                             <div class="row">
                                 <div class="col-xs-12 col-md-6">
