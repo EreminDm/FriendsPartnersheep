@@ -102,7 +102,9 @@
                             <%-- Example of tabs. Another Idea https://css-tricks.com/responsive-data-tables/ http://eric.sau.pe/custom-column-widths-in-bootstrap-tables/ https://css-tricks.com/responsive-data-table-roundup/--%>
 
                             <div class="tab-content">
+                                
                                 <div id="sectionA" class="tab-pane fade in active">
+                                    <b>Описание:</b>
                                       <ul>
                                           <li>Высокая яркость: Зритель четко может видеть изображение на дальней дистанции при ярком освещении солнца, так как используется высокая яркость ламп дисплея.</li>
                                           <li>Долгий срок действия: Принятие высококачественных ламп дисплея как основного материала и передача информации на экран, является важной гарантией срока действия продукта.</li>
@@ -118,54 +120,59 @@
                                       </ul>
                                 </div>
                                 <div id="sectionB" class="tab-pane fade">
+                                    <b>Технические характеристики:</b>
                                         <table>
-                                            <thead>
-                                              <tr>
-                                                <th>Единица</th>
-                                                <th>Описание</th>
-                                                <th>Единица</th>
-                                                <th>Описание</th>
-                                              </tr>
-                                            </thead>
                                             <tbody>
                                               <tr>
                                                 <td>Передача изображения</td>
                                                 <td>10 мм</td>
+                                              </tr>
+                                              <tr>
                                                 <td>Лучшая точка расстояния</td>
                                                 <td>10 мм – 30 мм</td>
                                               </tr>
                                               <tr>
                                                 <td>Пиксельная конфигурация</td>
                                                 <td>1R1G1B</td>
+                                              </tr>
+                                              <tr>
                                                 <td>Мощность (макс./мин.)</td>
                                                 <td>750 В/300 В</td>
                                               </tr>
                                               <tr>
                                                 <td>Тип LED</td>
                                                 <td>SMD3535/SMD5050</td>
+                                              </tr>
+                                              <tr>
                                                 <td>Метод просмотра</td>
                                                 <td>1/4</td>
                                               </tr>
                                               <tr>
                                                   <td>Разрешение модуля</td>
                                                   <td>16dots*16dots</td>
+                                              </tr>
+                                              <tr>
                                                   <td>Ведущий метод</td>
                                                   <td>Постоянный ток</td>
                                               </tr>
                                               <tr>
                                                   <td>Размер модуля</td>
                                                   <td>160мм*160мм</td>
-                                                  <td>Угол обзора (H/V)</td>
-                                                  <td>120*/120*</td>
+                                              </tr>
+                                              <tr>
+                                                <td>Угол обзора (H/V)</td>
+                                                <td>120*/120*</td>
                                               </tr>
                                             </tbody>
                                           </table>               
                                 </div>
-                            </div>
-                            <ul class="nav nav-pills">
+                                <br>
+                                <ul class="nav nav-pills">
                                 <li class="active"><a data-toggle="pill" href="#sectionA">Характеристики</a></li>
                                 <li><a data-toggle="pill" href="#sectionB">Свойства</a></li>
                             </ul>
+                            </div>
+                            
                             </p>
                             <div class="row">
                                 <div class="col-xs-12 col-md-6">
