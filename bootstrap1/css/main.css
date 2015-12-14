@@ -6,7 +6,8 @@
 *******Typography******
 **************************/
 div.services{
-      height: 235px;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 div.services p.lead{
   padding-top:2%;
@@ -580,7 +581,7 @@ input.search-form:hover {
 }
 
 .feature-wrap h2{
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .feature-wrap .pull-left {
