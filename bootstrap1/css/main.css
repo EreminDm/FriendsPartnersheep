@@ -5,8 +5,8 @@
 /*************************
 *******Typography******
 **************************/
-ul.nav.navbar-nav{
-    margin-left: 0px;
+.navbar-nav{
+    margin: 0px 0px;
 }
 
 div.services{
@@ -2616,7 +2616,10 @@ shortcodes page css
   display: inline-block;
   margin-left: 15px;
 }
-
+img.img-responsive {
+    float:none;
+    padding: 0px;
+}
 
 img
 {
