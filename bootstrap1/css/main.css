@@ -2616,7 +2616,10 @@ shortcodes page css
   display: inline-block;
   margin-left: 15px;
 }
-
+img.img-responsive {
+    float:none;
+    padding: 0px;
+}
 
 img
 {
