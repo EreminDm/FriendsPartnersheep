@@ -5,6 +5,10 @@
 /*************************
 *******Typography******
 **************************/
+ul.nav.navbar-nav{
+    margin-left: 0px;
+}
+
 div.services{
     padding-left: 2%;
     padding-right: 2%;
