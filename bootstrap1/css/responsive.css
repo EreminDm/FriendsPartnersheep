@@ -206,7 +206,7 @@
 
 /* xs */
 @media  screen and (max-width: 767px),
-     (min-width: 320px) and (max-width: 767px) {
+     (min-width: 341px) and (max-width: 767px) {
   .container > .navbar-header, .container > .navbar-collapse{
     margin-left: 0;
   }
@@ -327,8 +327,8 @@
 }
 
 /* XS Portrait */
-@media screen and (max-width: 319px),
-     (max-width: 319px) {
+@media screen and (max-width: 340px),
+     (max-width: 340px) {
 
      .feature-wrap h2, 
   .single-services h2 {
