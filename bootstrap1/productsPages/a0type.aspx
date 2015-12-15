@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="a0type.aspx.cs" Inherits="portfolio" Title="A0 type | LED product" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/bootstrap1/MasterPage.master" AutoEventWireup="true" CodeFile="a0type.aspx.cs" Inherits="portfolio" Title="A0 type | LED product" %>
 
 <asp:Content runat="server" ContentPlaceHolderID="main_inner">
     <section id="portfolio">

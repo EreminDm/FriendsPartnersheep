@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="ritype.aspx.cs" Inherits="portfolio" Title="Продукция | LED product" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/bootstrap1/MasterPage.master" AutoEventWireup="true" CodeFile="ritype.aspx.cs" Inherits="portfolio" Title="Продукция | LED product" %>
 
 <asp:Content runat="server" ContentPlaceHolderID="main_inner">
     <section id="portfolio">

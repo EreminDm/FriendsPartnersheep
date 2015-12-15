@@ -210,5 +210,8 @@
                     </div>
                 </div>
                       </a>
+                 </div>
+            </div>
+        </section>
     <!--/#portfolio-item-->
 </asp:Content>
