@@ -66,15 +66,14 @@
                         <li class="dropdown">
                             <a href="products.aspx" class="dropdown-toggle disabled" data-toggle="dropdown">Продукция <i class="fa fa-angle-down"></i></a> <!-- Если нужно выпилить переход с верхнего раздела - disabled убрать. Тупо в мобильной версии -->
                             <ul class="dropdown-menu">
-                                <li><a href="products.aspx#item1" class="external hidden-xs">NovaStar S50</a></li> <!-- Для перехода на конкретный раздел на странице products.aspx использовать следующую структуру
+                                <li><a href="products.aspx#item1" class="external hidden-xs">NovaStar</a></li> <!-- Для перехода на конкретный раздел на странице products.aspx использовать следующую структуру
                                                                                                            <section>  <a name="item1"> CONTENT </a> </section>-->
-                                <li><a href="products.aspx#item2" class="external hidden-xs">NovaStar Р10, Р16</a></li>
-                                <li><a href="products.aspx#item3" class="external hidden-xs">NovaStar Р6, Р8</a></li>
-                                <li><a href="products.aspx#item4" class="external hidden-xs">Ao-S10</a></li>
-                                <li><a href="products.aspx#item5" class="external hidden-xs">TH-4</a></li>
-                                <li><a href="products.aspx#item6" class="external hidden-xs">Ai-S5</a></li>
-                                <li><a href="products.aspx#item7" class="external hidden-xs">Ai-S7.62</a></li>
-                                <li><a href="products.aspx#item8" class="external hidden-xs">Ai-S10</a></li>
+                                <li><a href="products.aspx#item2" class="external hidden-xs">A0 - type</a></li>
+                                <li><a href="products.aspx#item3" class="external hidden-xs">Ai - type</a></li>
+                                <li><a href="products.aspx#item4" class="external hidden-xs">R0 - type</a></li>
+                                <li><a href="products.aspx#item5" class="external hidden-xs">Rf - type</a></li>
+                                <li><a href="products.aspx#item6" class="external hidden-xs">Ri - type</a></li>
+                                <li><a href="products.aspx#item6" class="external hidden-xs">TH4 - type</a></li>
                             </ul>
                         </li>
                         <li><a href="portfolio.aspx">Галерея</a></li> 
@@ -92,76 +91,6 @@
         </div>
     </form>
 
-    <!-- <section id="bottom">
-       <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms"> 
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Company</h3>
-                        <ul>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">We are hiring</a></li>
-                            <li><a href="#">Meet the team</a></li>
-                            <li><a href="#">Copyright</a></li>
-                            <li><a href="#">Terms of use</a></li>
-                            <li><a href="#">Privacy policy</a></li>
-                            <li><a href="#">Contact us</a></li>
-                        </ul>
-                    </div>
-                </div>
-              
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Support</h3>
-                        <ul>
-                            <li><a href="#">Faq</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Forum</a></li>
-                            <li><a href="#">Documentation</a></li>
-                            <li><a href="#">Refund policy</a></li>
-                            <li><a href="#">Ticket system</a></li>
-                            <li><a href="#">Billing system</a></li>
-                        </ul>
-                    </div>
-                </div>
-            
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Developers</h3>
-                        <ul>
-                            <li><a href="#">Web Development</a></li>
-                            <li><a href="#">SEO Marketing</a></li>
-                            <li><a href="#">Theme</a></li>
-                            <li><a href="#">Development</a></li>
-                            <li><a href="#">Email Marketing</a></li>
-                            <li><a href="#">Plugin Development</a></li>
-                            <li><a href="#">Article Writing</a></li>
-                        </ul>
-                    </div>
-                </div>
-              
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Our Partners</h3>
-                        <ul>
-                            <li><a href="#">Adipisicing Elit</a></li>
-                            <li><a href="#">Eiusmod</a></li>
-                            <li><a href="#">Tempor</a></li>
-                            <li><a href="#">Veniam</a></li>
-                            <li><a href="#">Exercitation</a></li>
-                            <li><a href="#">Ullamco</a></li>
-                            <li><a href="#">Laboris</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-            </div> 
-        </div>
-    </section> -->
-    <!--/#bottom-->
     <footer id="footer" class="midnight-blue navbar-default">
         <div class="container">
             <div class="row">
