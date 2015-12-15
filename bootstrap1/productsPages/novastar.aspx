@@ -1,4 +1,5 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/bootstrap1/MasterPage.master" AutoEventWireup="true" CodeFile="novastar.aspx.cs" Inherits="portfolio" Title="Продукция | LED product" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="novastar.aspx.cs" Inherits="portfolio" Title="NovaStar | LED product" %>
+
 
 <asp:Content runat="server" ContentPlaceHolderID="main_inner">
     <section id="portfolio">
@@ -10,10 +11,10 @@
                 <a name="item1"></a>
             </section>
              <div id="products list-group-item" class="row list-group">
-                 <a href="services.aspx">
+                 <a href="/services.aspx">
                      <div class="item list-group-item  col-xs-4 col-lg-4">
                         <div class="thumbnail">
-                                <img class="group list-group-image" alt="NovaStar" src="images/products/novastar/logo.jpg" />
+                                <img class="group list-group-image" alt="NovaStar" src="../images/products/novastar/logo.jpg" />
                             <div class="caption">
                                 <h4 class="group inner list-group-item-heading">
                                     NovaStar </h4>
@@ -37,10 +38,10 @@
             <section>
                 <a name="item2"></a>
             </section>
-                  <a href="services.aspx">
+                  <a href="/services.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="A0 - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="A0 - type" src="../images/products/item1.png" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 A0 - type</h4>
@@ -66,10 +67,10 @@
             <section>
                 <a name="item3"></a>
             </section>
-                 <a href="services.aspx">
+                 <a href="/services.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="Ai - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="Ai - type" src="../images/products/item1.png" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 Ai - type</h4>
@@ -94,10 +95,10 @@
             <section>
                 <a name="item4"></a>
             </section>
-                 <a href="services.aspx">
+                 <a href="/services.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="R0 - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="R0 - type" src="../images/products/item1.png" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 R0 - type</h4>
@@ -123,10 +124,10 @@
             <section>
                 <a name="item5"></a>
             </section>
-                  <a href="services.aspx">
+                  <a href="/services.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="Rf - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="Rf - type" src="../images/products/item1.png" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                Rf - type</h4>
@@ -151,10 +152,10 @@
             <section>
                 <a name="item6"></a>
             </section>
-                  <a href="services.aspx">
+                  <a href="/services.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="Ri - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="Ri - type" src="../images/products/item1.png" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 Ri - type</h4>
@@ -187,10 +188,10 @@
             <section>
                 <a name="item7"></a>
             </section>
-                  <a href="services.aspx">
+                  <a href="/services.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="Th-type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="Th-type" src="../images/products/item1.png" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 Th-type</h4>
@@ -210,5 +211,9 @@
                     </div>
                 </div>
                       </a>
+                 </div>
++            </div>
++        </section>
     <!--/#portfolio-item-->
 </asp:Content>
+
