@@ -66,14 +66,14 @@
                         <li class="dropdown">
                             <a href="../products.aspx" class="dropdown-toggle disabled" data-toggle="dropdown">Продукция <i class="fa fa-angle-down"></i></a> <!-- Если нужно выпилить переход с верхнего раздела - disabled убрать. Тупо в мобильной версии -->
                             <ul class="dropdown-menu">
-                                <li><a href="products.aspx#item1" class="external hidden-xs">NovaStar</a></li> <!-- Для перехода на конкретный раздел на странице products.aspx использовать следующую структуру
+                                <li><a href="../products.aspx#item1" class="external hidden-xs">NovaStar</a></li> <!-- Для перехода на конкретный раздел на странице products.aspx использовать следующую структуру
                                                                                                            <section>  <a name="item1"> CONTENT </a> </section>-->
-                                <li><a href="products.aspx#item2" class="external hidden-xs">A0 - type</a></li>
-                                <li><a href="products.aspx#item3" class="external hidden-xs">Ai - type</a></li>
-                                <li><a href="products.aspx#item4" class="external hidden-xs">R0 - type</a></li>
-                                <li><a href="products.aspx#item5" class="external hidden-xs">Rf - type</a></li>
-                                <li><a href="products.aspx#item6" class="external hidden-xs">Ri - type</a></li>
-                                <li><a href="products.aspx#item6" class="external hidden-xs">TH4 - type</a></li>
+                                <li><a href="../products.aspx#item2" class="external hidden-xs">A0 - type</a></li>
+                                <li><a href="../products.aspx#item3" class="external hidden-xs">Ai - type</a></li>
+                                <li><a href="../products.aspx#item4" class="external hidden-xs">R0 - type</a></li>
+                                <li><a href="../products.aspx#item5" class="external hidden-xs">Rf - type</a></li>
+                                <li><a href="../products.aspx#item6" class="external hidden-xs">Ri - type</a></li>
+                                <li><a href="../products.aspx#item6" class="external hidden-xs">TH4 - type</a></li>
                             </ul>
                         </li>
                         <li><a href="../portfolio.aspx">Галерея</a></li> 
