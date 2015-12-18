@@ -1,12 +1,13 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="a0type.aspx.cs" Inherits="portfolio" Title="A0 type | LED product" %>
 
 <asp:Content runat="server" ContentPlaceHolderID="main_inner">
-    <section id="a0type">
+    <section id="portfolio">
         <div class="container">
             <div class="center">
                <h2>Продукция</h2>
             </div>
-            <div class="item list-group-item  col-xs-4 col-lg-4">
+            <div id="products list-group-item" class="row list-group">
+                <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
                         <a rel="prettyPhoto" href="../images/products/item1.png">
                             <img class="group list-group-image" alt="A0-S10" src="../images/products/item1.png" />
@@ -162,7 +163,7 @@
                     </div>
                 </div>
 
-            <div class="item list-group-item  col-xs-4 col-lg-4">
+                <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
                         <a rel="prettyPhoto" href="../images/products/item1.png">
                             <img class="group list-group-image" alt="A0-S8" src="../images/products/item1.png" />
@@ -172,7 +173,7 @@
                                 A0-S8</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section2" class="tab-pane fade in active">
+                                <div id="section3" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Широкий угол обзора: Высокая последовательность длины волны дисплея  и 120 градусов горизонтального и вертикального угла обзора гарантирует зрителю исполнение изображения с разных направлений.</li>
@@ -185,7 +186,7 @@
                                           <li>Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, что обеспечивает равномерную работу  в любую погоду.</li>                                    
                                       </ul>
                                 </div>
-                                <div id="section3" class="tab-pane fade">
+                                <div id="section4" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -302,8 +303,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section2">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section3">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section3">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section4">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -317,7 +318,7 @@
                     </div>
                 </div>
 
-            <div class="item list-group-item  col-xs-4 col-lg-4">
+                <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
                         <a rel="prettyPhoto" href="../images/products/item1.png">
                             <img class="group list-group-image" alt="A0-D2" src="../images/products/item1.png" />
@@ -327,7 +328,7 @@
                                 A0-D2</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section2" class="tab-pane fade in active">
+                                <div id="section5" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Стабильное действие: Мы создали специальную обработку анти-электромагнитных волн, а также модульный дизайн для экрана для более надежной и стабильной работы.</li>
@@ -341,7 +342,7 @@
                                           <li>Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, что обеспечивает равномерную работу  в любую погоду.</li>                                    
                                       </ul>
                                 </div>
-                                <div id="section3" class="tab-pane fade">
+                                <div id="section6" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -458,8 +459,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section2">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section3">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section5">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section6">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -484,7 +485,7 @@
                                 A0-D8</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section2" class="tab-pane fade in active">
+                                <div id="section7" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Стабильное действие: Мы создали специальную обработку анти-электромагнитных волн, а также модульный дизайн для экрана для более надежной и стабильной работы.</li>
@@ -498,7 +499,7 @@
                                           <li>Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, что обеспечивает равномерную работу  в любую погоду.</li>                                    
                                       </ul>
                                 </div>
-                                <div id="section3" class="tab-pane fade">
+                                <div id="section8" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -615,8 +616,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section2">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section3">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section7">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section8">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -641,7 +642,7 @@
                                 A0-D10</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section2" class="tab-pane fade in active">
+                                <div id="section9" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Стабильное действие: Мы создали специальную обработку анти-электромагнитных волн, а также модульный дизайн для экрана для более надежной и стабильной работы.</li>
@@ -655,7 +656,7 @@
                                           <li>Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, что обеспечивает равномерную работу  в любую погоду.</li>                                    
                                       </ul>
                                 </div>
-                                <div id="section3" class="tab-pane fade">
+                                <div id="section10" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -772,8 +773,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section2">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section3">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section9">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section10">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -797,7 +798,7 @@
                                 A0-D12</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section2" class="tab-pane fade in active">
+                                <div id="section11" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Стабильное действие: Мы создали специальную обработку анти-электромагнитных волн, а также модульный дизайн для экрана для более надежной и стабильной работы.</li>
@@ -811,7 +812,7 @@
                                           <li>Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, что обеспечивает равномерную работу  в любую погоду.</li>                                    
                                       </ul>
                                 </div>
-                                <div id="section3" class="tab-pane fade">
+                                <div id="section12" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -928,8 +929,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section2">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section3">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section11">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section12">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -953,7 +954,7 @@
                                 A0-D16</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section2" class="tab-pane fade in active">
+                                <div id="section13" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Стабильное действие: Мы создали специальную обработку анти-электромагнитных волн, а также модульный дизайн для экрана для более надежной и стабильной работы.</li>
@@ -967,7 +968,7 @@
                                           <li>Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, что обеспечивает равномерную работу  в любую погоду.</li>                                    
                                       </ul>
                                 </div>
-                                <div id="section3" class="tab-pane fade">
+                                <div id="section14" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -1084,8 +1085,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section2">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section3">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section13">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section14">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -1097,8 +1098,8 @@
                             </div>
                         </div>
                     </div>
-                </div>                                                                                  
-            </div>                                                     
+                </div> 
+                </div>                                                                                 
             </div>
         </section>
     <!--/#portfolio-item-->
