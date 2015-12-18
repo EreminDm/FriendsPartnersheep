@@ -1099,8 +1099,8 @@
                         </div>
                     </div>
                 </div> 
-                </div>                                                                                 
-            </div>
-        </section>
+            </div>                                                                                 
+        </div>
+    </section>
     <!--/#portfolio-item-->
 </asp:Content>
