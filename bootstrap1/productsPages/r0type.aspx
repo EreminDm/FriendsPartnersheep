@@ -485,7 +485,7 @@
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
-                                R0-S10</h4>
+                                R0-D10</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
                                 <div id="section7" class="tab-pane fade in active">
