@@ -1,86 +1,186 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="thtype.aspx.cs" Inherits="portfolio" Title="Th type | LED product" %>
 
 
-<asp:Content runat="server" ContentPlaceHolderID="main_inner">
+asp:Content runat="server" ContentPlaceHolderID="main_inner">
     <section id="portfolio">
         <div class="container">
             <div class="center">
                <h2>Продукция</h2>
             </div>
-            <section>
-                <a name="item1"></a>
-            </section>
-             <div id="products list-group-item" class="row list-group">
-                 <a href="/services.aspx">
-                     <div class="item list-group-item  col-xs-4 col-lg-4">
-                        <div class="thumbnail">
-                                <img class="group list-group-image" alt="NovaStar" src="../images/products/novastar/logo.jpg" />
-                            <div class="caption">
-                                <h4 class="group inner list-group-item-heading">
-                                    NovaStar </h4>
-                                <p class="group inner list-group-item-text">
-                                    NovaStar - это идеальное решение для медиафасадов и транспарентных экранов. <br />
-                                    Решения NovaStar -  имеют высокую степень защиты для использования вне помещений, 
-                                    широкий угол обзора для DIP-диодов, пониженное энергопотребление,
-                                    высокий уровень яркости и частоту обновления <br />
-                                    NovaStar дисплеи -  имееют высококачественные светодиодные лампы знаменитые во всем мире 
-                                    не только благодаря гарантии качества, но и благодаря дальности цветовых эффектов
-                                <div class="row">
-                                    <div class="col-xs-12 col-md-6">
-                                        <p class="lead">
-                                            </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            <section>
-                <a name="item2"></a>
-            </section>
-                  <a href="/services.aspx">
+            <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="A0 - type" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/item1.png">
+                            <img class="group list-group-image" alt="Th-4" src="../images/products/item1.png" />
+                        </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
-                                A0 - type</h4>
+                                Th-4</h4>
                             <p class="group inner list-group-item-text">
-                               Высокая яркость: Зритель четко может видеть изображение 
-                               на дальней дистанции при ярком освещении солнца<br />
-                               Долгий срок действия: Принятие высококачественных ламп
-                               дисплея как основного материала и передача информации на экран,
-                               является важной гарантией срока действия продукта<br />
-                               Многократные форматы: Клиенты могут выбирать формат 
-                               дисплея для экрана, он может сопровождаться текстом, графиком,
-                               изображением, анимацией и видео программами
-                                <div class="row">
-                                <div class="col-xs-12 col-md-6">
-                                    <p class="lead">
-                                        </p>
+                            <div class="tab-content">
+                                <div id="section1" class="tab-pane fade in active">
+                                    <b>Описание:</b>
+                                      <ul>
+                                          <li>Автоматический:  конфигурация одного кабинета, остальные колоны автоматизированы.</li>
+                                          <li>Легко: легкое использование оснований Jonsung TH, TH укладку рам и TH драпировки лучей для ускорения блока и для улучшения эффективности каждой демонстрации.</li>
+                                          <li>Никакие инструменты не нужны: без инструментов можно быстро закрыть все кабинеты и исходные принадлежности (аксессуары) это сэкономит время и деньги. </li>
+                                          <li>Оптимизированная поверхность: весь кабинет и блокировка системы разрабатывает гарантию чистого показа поверхности.</li>
+                                          <li>Легко II: HDMI вход , минимальная конфигурация показа, и автоматическая калибровка позволяют легкой модификации в необходимой среде.</li>
+                                          <li>Гибкое использование: без преувеличения каждый кабинет легко переустанавливается и отображается.</li>
+                                          <li>Чисто: интеллектуально настроенная мощь и сигнал кабелей.</li>
+                                          <li>Практично:  легкие на вес и устойчивые кабинеты с длительным управлением, металлизация и блокировка системы гарантирует практичную манипуляцию.</li>
+                                          <li>Превосходная цена: эффективная цена высокой эффективности и максимум гибкость.</li>                                          
+                                         </ul>
                                 </div>
+                                <div id="section2" class="tab-pane fade">
+                                    <b>Технические характеристики:</b>
+                                        <table>
+                                            <tbody>
+
+                                              <tr>
+                                                <td>Шаг пикселя</td>
+                                                <td>4 мм </td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Конфигурация </td>
+                                                <td>1R1G1B</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Тип LED</td>
+                                                <td>SMD2020</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Разрешение модуля</td>
+                                                <td>56dots*56dots</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Размер модуля</td>
+                                                <td>224мм*224мм </td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Разрешение кабинета</td>
+                                                <td>112dots*112dots </td>
+                                              </tr>
+
+                                             <tr>
+                                                <td>Размер кабинета</td>
+                                                <td>448мм*448мм</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Модули в кабинете</td>
+                                                <td>2*2 пикс.</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Вес кабинета</td>
+                                                <td>9,4 кг </td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Материал кабинета</td>
+                                                <td>Алюминий</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Плотность пикселя</td>
+                                                <td>62500дот/м</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Яркость</td>
+                                                <td>>1500 cd/m</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Уровни яркости</td>
+                                                <td>Автомат.256 уровней</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td> Расстояние видимости</td>
+                                                <td>4 м – 12 м</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Питание(макс./мин.)</td>
+                                                <td>1495 В/673 В </td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Метод сканирования</td>
+                                                <td>1/16</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Ток	</td>
+                                                <td>Постоянный </td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Угол обзора (Г/В)</td>
+                                                <td>120*/120*</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Работоспособность </td>
+                                                <td>100000 часов </td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Частота кадра</td>
+                                                <td>60 Hz/50Hz</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Частота обновления</td>
+                                                <td>5000 Hz</td>
+                                              </tr>
+
+                                             <tr>
+                                                <td>Градация серого</td>
+                                                <td>12 бит ~ 16 бит</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Цвета</td>
+                                                <td>36 бит ~ 48 бит</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Рабочие температуры</td>
+                                                <td>- 20 С +40 С</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Входящее напряжение </td>
+                                                <td>AC 110~220 вольт</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>IP класс</td>
+                                                <td>IP50/IP20</td>
+                                              </tr>
+
+                                            <tr>
+                                                <td>Расстояние управления</td>
+                                                <td>HDML cable 25 m, Optical fiber cable- 2000 m</td>
+                                              </tr>
+                                                            
+                                            </tbody>
+                                          </table>               
+                                </div>
+                                <br>
+                                <ul class="nav nav-pills">
+                                <li class="active"><a data-toggle="pill" href="#section1">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section2">Технические характеристики</a></li>
+                            </ul>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </a>
-            <section>
-                <a name="item3"></a>
-            </section>
-                 <a href="/services.aspx">
-                <div class="item list-group-item  col-xs-4 col-lg-4">
-                    <div class="thumbnail">
-                            <img class="group list-group-image" alt="Ai - type" src="../images/products/item1.png" />
-                        <div class="caption">
-                            <h4 class="group inner list-group-item-heading">
-                                Ai - type</h4>
-                            <p class="group inner list-group-item-text">
-                                  Широкий угол обзора: Высокая последовательность длины волны дисплея
-                                  и 120 градусов горизонтального и вертикального угла обзора гарантирует
-                                  зрителю исполнение изображения с разных направлений<br />
-                                  Лакированное покрытие: Лакированное покрытие защищает схемы и родственные
-                                  компоненты от эрозии окружающей среды, оно имеет устойчивость от низкой и высокой
-                                  температуры и превосходные особенности изоляции, влагостойкость, антиползание, пылезащищенность, противокоррозийность
                             </p>
                             <div class="row">
                                 <div class="col-xs-12 col-md-6">
@@ -91,126 +191,6 @@
                         </div>
                     </div>
                 </div>
-                     </a>
-            <section>
-                <a name="item4"></a>
-            </section>
-                 <a href="/services.aspx">
-                <div class="item list-group-item  col-xs-4 col-lg-4">
-                    <div class="thumbnail">
-                            <img class="group list-group-image" alt="R0 - type" src="../images/products/item1.png" />
-                        <div class="caption">
-                            <h4 class="group inner list-group-item-heading">
-                                R0 - type</h4>
-                            <p class="group inner list-group-item-text">
-                                 Стабильное действие: Мы создали специальную обработку анти-электромагнитных волн,
-                                 а также модульный дизайн для экрана для более надежной и стабильной работы<br />
-                                 Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, 
-                                 что обеспечивает равномерную работу  в любую погоду <br />
-                                 Долгий срок действия: Принятие высококачественных ламп 
-                                 дисплея как основного материала и передача информации на экран,
-                                 является важной гарантией срока действия продукта
-                                </p>
-                            <div class="row">
-                                <div class="col-xs-12 col-md-6">
-                                    <p class="lead">
-                                        </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                     </a>
-            <section>
-                <a name="item5"></a>
-            </section>
-                  <a href="/services.aspx">
-                <div class="item list-group-item  col-xs-4 col-lg-4">
-                    <div class="thumbnail">
-                            <img class="group list-group-image" alt="Rf - type" src="../images/products/item1.png" />
-                        <div class="caption">
-                            <h4 class="group inner list-group-item-heading">
-                               Rf - type</h4>
-                            <p class="group inner list-group-item-text">
-                                Качественный материал: Применение уровней импортируемых чипов с Тайваня,
-                                США и Японии, высококачественное улучшение ЕС, низко шумовая мощность поставки, 
-                                которая может гарантировать работу экрана в гладкой среде от -20 град до +40 град<br />
-                                Высокая противоударное действие: Кабинеты протестированы на противоударное действие <br />
-                                Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, что обеспечивает
-                                равномерную работу  в любую погоду
-                            </p>
-                            <div class="row">
-                                <div class="col-xs-12 col-md-6">
-                                    <p class="lead">
-                                        </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                      </a>
-            <section>
-                <a name="item6"></a>
-            </section>
-                  <a href="/services.aspx">
-                <div class="item list-group-item  col-xs-4 col-lg-4">
-                    <div class="thumbnail">
-                            <img class="group list-group-image" alt="Ri - type" src="../images/products/item1.png" />
-                        <div class="caption">
-                            <h4 class="group inner list-group-item-heading">
-                                Ri - type</h4>
-                            <p class="group inner list-group-item-text">
-                                Долгий срок действия: Принятие высококачественных ламп дисплея, как
-                                основного материала и передача информации на экран, является важной 
-                                гарантией срока действия продукта <br />
-                                Изысканное изображение: Коррекция технологии сделала изображения 
-                                изящным и четким,  а изображение видео живым и точным <br />
-                                Стабильное действие: Мы создали специальную обработку анти-электромагнитных
-                                волн, а также модульный дизайн для экрана для более надежной и стабильной работы <br />
-                                Многократные форматы: Клиенты могут выбирать формат дисплея для экрана,
-                                он может сопровождаться текстом, графиком, изображением, анимацией и видео программами <br />
-                                Лакированное покрытие: Лакированное покрытие защищает схемы и родственные 
-                                компоненты от эрозии окружающей среды, оно имеет устойчивость от низкой и высокой 
-                                температуры и превосходные особенности изоляции, влагостойкость, антиползание, 
-                                пылезащищенность, противокоррозийность <br />
-                                Высокая противоударное действие: Кабинеты протестированы на противоударное действие
-                            </p>
-                            <div class="row">
-                                <div class="col-xs-12 col-md-6">
-                                    <p class="lead">
-                                        </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                      </a>
-            <section>
-                <a name="item7"></a>
-            </section>
-                  <a href="/services.aspx">
-                <div class="item list-group-item  col-xs-4 col-lg-4">
-                    <div class="thumbnail">
-                            <img class="group list-group-image" alt="Th-type" src="../images/products/item1.png" />
-                        <div class="caption">
-                            <h4 class="group inner list-group-item-heading">
-                                Th-type</h4>
-                            <p class="group inner list-group-item-text">
-                                Автоматический:  конфигурация одного кабинета, остальные колоны автоматизированы<br />
-                                Никакие инструменты не нужны: без инструментов можно быстро закрыть все кабинеты и 
-                                исходные принадлежности (аксессуары) это сэкономит время и деньги<br />
-                                Превосходная цена: эффективная цена высокой эффективности и максимум гибкость
-                            </p>
-                            <div class="row">
-                                <div class="col-xs-12 col-md-6">
-                                    <p class="lead">
-                                        </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                      </a>
                  </div>
 +            </div>
 +        </section>
