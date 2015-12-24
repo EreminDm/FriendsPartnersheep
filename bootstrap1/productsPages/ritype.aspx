@@ -205,7 +205,7 @@
                                 Ri500-625</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section1" class="tab-pane fade in active">
+                                <div id="section3" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Долгий срок действия: Принятие высококачественных ламп дисплея как основного материала и передача информации на экран, является важной гарантией срока действия продукта. </li>
@@ -222,7 +222,7 @@
                                           <li>Высокая противоударное действие: Кабинеты протестированы на противоударное действие. </li>
                                          </ul>
                                 </div>
-                                <div id="section2" class="tab-pane fade">
+                                <div id="section4" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -366,8 +366,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section1">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section2">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section3">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section4">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -392,7 +392,7 @@
                                 Ri-D4</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section1" class="tab-pane fade in active">
+                                <div id="section5" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Долгий срок действия: Принятие высококачественных ламп дисплея как основного материала и передача информации на экран, является важной гарантией срока действия продукта. </li>
@@ -409,7 +409,7 @@
                                           <li>Высокая противоударное действие: Кабинеты протестированы на противоударное действие. </li>
                                          </ul>
                                 </div>
-                                <div id="section2" class="tab-pane fade">
+                                <div id="section6" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>                                               	 
@@ -554,8 +554,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section1">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section2">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section5">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section6">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -580,7 +580,7 @@
                                 Ri500-781</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section1" class="tab-pane fade in active">
+                                <div id="section7" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Высокая яркость: Зритель четко может видеть изображение на дальней дистанции при ярком освещении солнца, так как используется высокая яркость ламп дисплея. </li>
@@ -598,7 +598,7 @@
                                           <li>Высокая водонепроницаемость: Кабинеты проходят тест на водонепроницаемость, что обеспечивает равномерную работу  в любую погоду.</li>
                                          </ul>
                                 </div>
-                                <div id="section2" class="tab-pane fade">
+                                <div id="section8" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -742,8 +742,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section1">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section2">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section7">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section8">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -768,7 +768,7 @@
                                 Ri-M5</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section1" class="tab-pane fade in active">
+                                <div id="section9" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Долгий срок действия: Принятие высококачественных ламп дисплея как основного материала и передача информации на экран, является важной гарантией срока действия продукта. </li>
@@ -785,7 +785,7 @@
                                           <li>Высокая противоударное действие: Кабинеты протестированы на противоударное действие. </li>
                                          </ul>
                                 </div>
-                                <div id="section2" class="tab-pane fade">
+                                <div id="section10" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -854,20 +854,6 @@
                                                 <td>Уровни яркости</td>
                                                 <td>Автомат.256 уровней</td>
                                               </tr>
-
-                                                	  
-	
-	
-	
-	 
-	
-	
-	
-	
-	
-	
-	 
-  	
 
                                             <tr>
                                                 <td>Расстояние видимости</td>
@@ -944,8 +930,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section1">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section2">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section9">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section10">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -970,7 +956,7 @@
                                 Ri-M6</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section1" class="tab-pane fade in active">
+                                <div id="section11" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Долгий срок действия: Принятие высококачественных ламп дисплея как основного материала и передача информации на экран, является важной гарантией срока действия продукта. </li>
@@ -986,7 +972,7 @@
                                           <li>Высокая противоударное действие: Кабинеты протестированы на противоударное действие. </li>                                         
                                          </ul>
                                 </div>
-                                <div id="section2" class="tab-pane fade">
+                                <div id="section12" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -1131,8 +1117,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section1">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section2">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section11">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section12">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -1157,7 +1143,7 @@
                                 Ri-T5</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section1" class="tab-pane fade in active">
+                                <div id="section13" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Долгий срок действия: Принятие высококачественных ламп дисплея как основного материала и передача информации на экран, является важной гарантией срока действия продукта. </li>
@@ -1174,7 +1160,7 @@
                                           <li>Высокая противоударное действие: Кабинеты протестированы на противоударное действие. </li>
                                          </ul>
                                 </div>
-                                <div id="section2" class="tab-pane fade">
+                                <div id="section14" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -1242,19 +1228,7 @@
                                                 <td>Уровни яркости</td>
                                                 <td>Автомат.256 уровней</td>
                                               </tr>
-                                              	 
-	 
-	
-	 
-	 
-	 
-	
-	
-	
-	
-	
-	
-  	
+
                                             <tr>
                                                 <td>Расстояние видимости</td>
                                                 <td>5м – 15м </td>
@@ -1330,8 +1304,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section1">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section2">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section13">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section14">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
@@ -1356,7 +1330,7 @@
                                 Ri-T6</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
-                                <div id="section1" class="tab-pane fade in active">
+                                <div id="section15" class="tab-pane fade in active">
                                     <b>Описание:</b>
                                       <ul>
                                           <li>Долгий срок действия: Принятие высококачественных ламп дисплея как основного материала и передача информации на экран, является важной гарантией срока действия продукта. </li>
@@ -1373,7 +1347,7 @@
                                           <li>Высокая противоударное действие: Кабинеты протестированы на противоударное действие. </li>
                                          </ul>
                                 </div>
-                                <div id="section2" class="tab-pane fade">
+                                <div id="section16" class="tab-pane fade">
                                     <b>Технические характеристики:</b>
                                         <table>
                                             <tbody>
@@ -1518,8 +1492,8 @@
                                 </div>
                                 <br>
                                 <ul class="nav nav-pills">
-                                <li class="active"><a data-toggle="pill" href="#section1">Описание</a></li>
-                                <li><a data-toggle="pill" href="#section2">Технические характеристики</a></li>
+                                <li class="active"><a data-toggle="pill" href="#section15">Описание</a></li>
+                                <li><a data-toggle="pill" href="#section16">Технические характеристики</a></li>
                             </ul>
                             </div>
                             </p>
