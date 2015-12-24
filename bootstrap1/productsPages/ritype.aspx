@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="ritype.aspx.cs" Inherits="portfolio" Title="Ri type | LED product" %>
 
 
-asp:Content runat="server" ContentPlaceHolderID="main_inner">
+<asp:Content runat="server" ContentPlaceHolderID="main_inner">
     <section id="portfolio">
         <div class="container">
             <div class="center">
@@ -1533,8 +1533,8 @@ asp:Content runat="server" ContentPlaceHolderID="main_inner">
                     </div>
                 </div>
                  </div>
-+            </div>
-+        </section>
+            </div>
+        </section>
     <!--/#portfolio-item-->
 </asp:Content>
 
