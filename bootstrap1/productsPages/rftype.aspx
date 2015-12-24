@@ -11,11 +11,11 @@
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
                         <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-S10" src="../images/products/item1.png" />
+                            <img class="group list-group-image" alt="RF-S10" src="../images/products/item1.png" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
-                                R0-S6</h4>
+                                Rf-S10</h4>
                             <p class="group inner list-group-item-text">
                             <div class="tab-content">
                                 <div id="section1" class="tab-pane fade in active">
