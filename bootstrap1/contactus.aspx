@@ -4,7 +4,7 @@
     <section id="contact-info">
      <br /> <br />  
         <div class="center">                
-            <h2>Как с нами связаться?</h2>
+            <h2>Товарищество с ограниченной ответственностью "LED product"</h2>
             <p class="lead">Выберите любой удобный вид связи для Вас.</p>
      
         </div>
@@ -13,42 +13,20 @@
                 <div class="row">
                     <div class="col-sm-5 text-center">
                         <div class="gmap">
-                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s&amp;hl=en&amp;geocode=&amp;aq=0&amp;ie=UTF8&amp;ll=43.2065106,76.9143237&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s&amp;hl=en&amp;geocode=&amp;aq=0&amp;ie=UTF8&amp;ll=43.2872877,76.9367191&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
                         </div>
                     </div>
 
                     <div class="col-sm-7 map-content">
                         <ul class="row">
-                            <li class="col-sm-6">
+                            <li class="col-sm-12">
                                 <address>
-                                    <h5>Головной офис</h5>
-                                    <p>111 Аль-Фараби <br></p>
-                                    <p>Телефон:+7 777 1234567 <br>
-                                    Email адрес:mail@mail.mail</p>
-                                </address>
-
-                                <address>
-                                    <h5>Филиал первый</h5>
-                                    <p>111 Аль-Фараби <br></p>
-                                    <p>Телефон:+7 777 1234567 <br>
-                                    Email адрес:mail@mail.mail</p>
-                                </address>
-                            </li>
-
-
-                            <li class="col-sm-6">
-                                <address>
-                                    <h5>Филиал первый</h5>
-                                   <p>111 Аль-Фараби <br></p>
-                                    <p>Телефон:+7 777 1234567 <br>
-                                    Email адрес:mail@mail.mail</p>
-                                </address>
-
-                                <address>
-                                    <h5>Склад</h5>
-                                  <p>111 Аль-Фараби <br></p>
-                                    <p>Телефон:+7 777 1234567 <br>
-                                    Email адрес:mail@mail.mail</p>
+                                    <h5>Юридический адрес</h5>
+                                    <p>РК  г. Алматы, Жетысуский р-н., ул. Жансугурова 115</p>
+                                    <p>Телефоны:8 727 367 15 47 <br>
+                                        8 701 745 32 64 <br>
+                                        8 707 307 29 29 <br>
+                                    Email wildog@mail.ru</p>
                                 </address>
                             </li>
                         </ul>
@@ -75,25 +53,25 @@
                                <asp:TextBox ID="txtName" CssClass="form-control" runat="server"></asp:TextBox>
                                 <asp:RequiredFieldValidator ID="txtNameNotNull" runat="server"     
                                     ErrorMessage="Укажите Ваше имя." 
-                                    ControlToValidate="txtName"/>
+                                    ControlToValidate="txtName"  Display="Dynamic"/>
                              </div>
                         <div class="form-group">
                             <label>Email *</label>
                             <asp:TextBox ID="txtemail" CssClass="form-control" runat="server" ></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtemailNotNull" runat="server"     
                                     ErrorMessage="Введите Ваш email." 
-                                    ControlToValidate="txtemail"/>
+                                    ControlToValidate="txtemail" Display="Dynamic"/>
                             <asp:RegularExpressionValidator ID="regexpMail" runat="server"     
                                     ErrorMessage="Проверьте правильность ввода email." 
                                     ControlToValidate="txtemail"     
-                                    ValidationExpression="^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.(([0-9]{1,3})|([a-zA-Z]{2,3})|(aero|coop|info|museum|name))$" />
+                                    ValidationExpression="^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.(([0-9]{1,3})|([a-zA-Z]{2,3})|(aero|coop|info|museum|name))$" Display="Dynamic"/>
                         </div>
                         <div class="form-group">
                             <label>Контактный номер *</label>
                             <asp:TextBox ID="txtPhone" CssClass="form-control" runat="server" ></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtPhoneNotNull" runat="server"     
                                     ErrorMessage="Введите Ваш контактный номер." 
-                                    ControlToValidate="txtPhone"/>
+                                    ControlToValidate="txtPhone"  Display="Dynamic"/>
                         </div>
                         <div class="form-group">
                             <label>Название компании</label>
@@ -106,14 +84,14 @@
                             <asp:TextBox ID="txtsubject" runat="server" CssClass="form-control"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtsubjectNotNull" runat="server"     
                                     ErrorMessage="Укажите тему сообщения." 
-                                    ControlToValidate="txtsubject"/>
+                                    ControlToValidate="txtsubject"  Display="Dynamic"/>
                         </div>
                         <div class="form-group">
                             <label>Текст сообщения *</label>
                             <asp:TextBox ID="txtmsg" runat="server" CssClass="form-control" Rows="10" TextMode="MultiLine"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="txtmsgNotNull" runat="server"     
                                     ErrorMessage="Укажите текст сообщения." 
-                                    ControlToValidate="txtmsg"/>
+                                    ControlToValidate="txtmsg"  Display="Dynamic"/>
                         </div>                        
                         <div class="form-group">
                             <asp:Button runat="server" ID="Submit" CssClass="btn btn-primary btn-lg" Text="Отправить сообщение" onclick="Submit_Click" />
