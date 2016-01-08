@@ -100,6 +100,9 @@
   ul.social_icons li{
     margin-right: 0;
   }
+  #main-slider .carousel .item {
+      height: 530px;
+  }
 
 }
 
@@ -202,6 +205,10 @@
         width: 95px;
         line-height: 95px;
     }
+      #main-slider .carousel .item {
+      height: 530px;
+  }
+
 }
 
 /* xs */

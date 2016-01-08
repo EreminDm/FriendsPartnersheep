@@ -438,7 +438,6 @@ input.search-form:hover {
   position: absolute;
   width: 100%;
   display: block !important;
-  height: 530px;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
   -o-transition: opacity ease-in-out 500ms;
@@ -2659,6 +2658,10 @@ img
     color: #C6E2FF !important;
 }
 @media (max-device-width:420px) {
+      #main-slider .carousel .item {
+      height: auto !important;
+  }
+
     i.fa.fa-angle-down{
         display:none;
     }
@@ -2768,3 +2771,8 @@ html {
      bottom: 0;
      width: 100%;
  }
+@media (max-device-width:820px) {
+    #main-slider .carousel .item {
+        height: auto !important;
+    }
+}
