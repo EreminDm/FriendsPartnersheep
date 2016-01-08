@@ -23,14 +23,13 @@ public partial class contactus : System.Web.UI.Page
                 mailMessage.Subject = String.Format("Тема: " + txtsubject.Text + (txtcmpnm.Text == String.Empty ? " " : "Компания:" + txtcmpnm.Text) + "Имя: " + txtName.Text);
                 mailMessage.Body = txtmsg.Text;
                 mailMessage.IsBodyHtml = true;
-                mailMessage.To.Add("iliastetsun@gmail.com");
-                mailMessage.To.Add("eremin.dm@gmail.com");
+                mailMessage.To.Add("info@ledproduct.kz");
                 SmtpClient smtp = new SmtpClient();
-                smtp.Host = "smtp.gmail.com";
+                smtp.Host = "mail.ledproduct.kz";
                 smtp.EnableSsl = true;
                 System.Net.NetworkCredential NetworkCred = new System.Net.NetworkCredential();
-                NetworkCred.UserName = "iliastetsun@gmail.com";
-                NetworkCred.Password = "NenDdjlbnczNtrcn5483undSend3n";
+                NetworkCred.UserName = "info@ledproduct.kz";
+                NetworkCred.Password = "infonurpass123";
                 smtp.UseDefaultCredentials = true;
                 smtp.Credentials = NetworkCred;
                 smtp.Port = 587;

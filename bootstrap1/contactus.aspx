@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" Title="Контакты | LED product" %>
+﻿<%@ Page EnableEventValidation="false" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" Title="Контакты | LED product" %>
 
 <asp:content runat="server" contentplaceholderid="main_inner">
     <section id="contact-info">
@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-sm-5 text-center">
                         <div class="gmap">
-                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s&amp;hl=en&amp;geocode=&amp;aq=0&amp;ie=UTF8&amp;ll=43.2872877,76.9367191&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s&amp;hl=en&amp;geocode=&amp;aq=0&amp;ie=UTF8&amp;ll=43.2483208,76.8675738&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
                         </div>
                     </div>
 
@@ -22,11 +22,11 @@
                             <li class="col-sm-12">
                                 <address>
                                     <h5>Юридический адрес</h5>
-                                    <p>РК  г. Алматы, Жетысуский р-н., ул. Жансугурова 115</p>
+                                    <p>РК  г. Алматы, Ауэзовский район, ул. Толе би 277, офис 406</p>
                                     <p>Телефоны:8 727 367 15 47 <br>
                                         8 701 745 32 64 <br>
                                         8 707 307 29 29 <br>
-                                    Email wildog@mail.ru</p>
+                                    Email: info@ledproduct.kz</p>
                                 </address>
                             </li>
                         </ul>
