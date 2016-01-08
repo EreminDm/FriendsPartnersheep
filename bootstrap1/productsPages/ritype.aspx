@@ -197,8 +197,8 @@
             <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="Ri500-625" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Ri500-625.jpg">
+                            <img class="group list-group-image" alt="Ri500-625" src="../images/products/Ri500-625.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -384,8 +384,8 @@
             <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="Ri-D4" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Ri-D4.jpg">
+                            <img class="group list-group-image" alt="Ri-D4" src="../images/products/Ri-D4.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -572,8 +572,8 @@
             <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="Ri500-781" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Ri500-7.81.jpg">
+                            <img class="group list-group-image" alt="Ri500-781" src="../images/products/Ri500-7.81.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -760,8 +760,8 @@
             <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="Ri-M5" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Ri-M5.jpg">
+                            <img class="group list-group-image" alt="Ri-M5" src="../images/products/Ri-M5.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -948,8 +948,8 @@
             <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="Ri-M6" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Ri-M6.jpg">
+                            <img class="group list-group-image" alt="Ri-M6" src="../images/products/Ri-M6.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -1135,8 +1135,8 @@
             <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="Ri-T5" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Ri-T5.jpg">
+                            <img class="group list-group-image" alt="Ri-T5" src="../images/products/Ri-T5.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -1322,8 +1322,8 @@
             <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="Ri-T6" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Ri-T6.jpg">
+                            <img class="group list-group-image" alt="Ri-T6" src="../images/products/Ri-T6.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">

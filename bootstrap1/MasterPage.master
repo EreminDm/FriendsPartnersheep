@@ -99,11 +99,11 @@
                 </div> 
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="Default.aspx">О компании</a></li>
-                        <li><a href="services.aspx">Услуги</a></li>
-                        <li><a href="products.aspx">Продукция</a></li>
-                        <li><a href="portfolio.aspx">Галерея</a></li>
-                        <li><a href="contactus.aspx">Контакты</a></li>
+                        <li><a href="../Default.aspx">О компании</a></li>
+                        <li><a href="../services.aspx">Услуги</a></li>
+                        <li><a href="../products.aspx">Продукция</a></li>
+                        <li><a href="../portfolio.aspx">Галерея</a></li>
+                        <li><a href="../contactus.aspx">Контакты</a></li>
                     </ul>
                 </div>
             </div>

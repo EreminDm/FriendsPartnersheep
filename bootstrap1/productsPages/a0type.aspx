@@ -165,8 +165,8 @@
 
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-S8" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/A0-S8.jpg">
+                            <img class="group list-group-image" alt="A0-S8" src="../images/products/A0-S8.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -477,8 +477,8 @@
                 <!--Косяк в картинке и таблице -->
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-D2" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/A0-D8.jpg">
+                            <img class="group list-group-image" alt="A0-D2" src="../images/products/A0-D8.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -634,8 +634,8 @@
                 <!--Косяк в картинке и таблице -->
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-D2" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/A0-D10.jpg">
+                            <img class="group list-group-image" alt="A0-D2" src="../images/products/A0-D10.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -790,8 +790,8 @@
 
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-D2" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/A0-D12.jpg">
+                            <img class="group list-group-image" alt="A0-D2" src="../images/products/A0-D12.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -946,8 +946,8 @@
             
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-D2" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/A0-D16.jpg">
+                            <img class="group list-group-image" alt="A0-D2" src="../images/products/A0-D16.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
