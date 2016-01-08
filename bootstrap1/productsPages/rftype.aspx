@@ -10,8 +10,8 @@
              <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="RF-S10" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Rf-S10.jpg">
+                            <img class="group list-group-image" alt="RF-S10" src="../images/products/Rf-S10.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">

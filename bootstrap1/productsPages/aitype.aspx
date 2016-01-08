@@ -10,8 +10,8 @@
             <div id="products list-group-item" class="row list-group">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-S10" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/ai-s4.jpg">
+                            <img class="group list-group-image" alt="A0-S10" src="../images/products/ai-s4.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -165,8 +165,8 @@
 
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-S10" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/ai-s5.jpg">
+                            <img class="group list-group-image" alt="A0-S10" src="../images/products/ai-s5.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -318,8 +318,8 @@
 
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-S10" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/Ai-S7.62.jpg">
+                            <img class="group list-group-image" alt="A0-S10" src="../images/products/Ai-S7.62.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
@@ -474,8 +474,8 @@
 
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                        <a rel="prettyPhoto" href="../images/products/item1.png">
-                            <img class="group list-group-image" alt="A0-S10" src="../images/products/item1.png" />
+                        <a rel="prettyPhoto" href="../images/products/ai-s10.jpg">
+                            <img class="group list-group-image" alt="A0-S10" src="../images/products/ai-s10.jpg" />
                         </a>
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
