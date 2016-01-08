@@ -25,7 +25,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of contents available, but the majority</p>
+                                    
                                     <a class="preview" href="images/portfolio/full/outside/main1.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -39,7 +39,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of contents available, but the majority</p>
+                                    
                                     <div id="video_player">
                                     <a class="preview" href="https://www.youtube.com/watch?v=pSiIHe2uZ2w" rel="prettyPhoto" title="My YouTube Video"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div>
@@ -55,7 +55,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/main2.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -68,7 +68,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/main3.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -81,7 +81,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/curvet/22.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -94,7 +94,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/main4.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -107,7 +107,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/19.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -120,7 +120,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/20.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -133,7 +133,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/21.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -146,7 +146,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/main5.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -159,7 +159,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/main6.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -171,7 +171,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/26.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -184,7 +184,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/1.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -196,7 +196,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/27.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -209,7 +209,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/10.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -222,7 +222,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/28.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -235,7 +235,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/11.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -248,7 +248,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/32.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -261,7 +261,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/12.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -274,7 +274,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/curvet/23.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -287,7 +287,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/29.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -300,7 +300,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/33.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -313,7 +313,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/13.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -326,7 +326,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/curvet/24.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -339,7 +339,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/outside/31.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -352,7 +352,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/14.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -365,7 +365,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/34.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -378,7 +378,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/15.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -391,7 +391,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/35.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -404,7 +404,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/16.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -417,7 +417,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/36.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -430,7 +430,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/17.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -443,7 +443,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/inside/37.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -456,7 +456,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/curvet/25.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -469,7 +469,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/18.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -482,7 +482,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/2.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -495,7 +495,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/3.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -508,7 +508,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/4.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -521,7 +521,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/5.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -534,7 +534,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/6.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -547,7 +547,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -560,7 +560,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/8.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
@@ -573,7 +573,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <!--h3><a href="#">Business theme</a></h3-->
-                                    <p>There are many variations of passages of content available, but the majority</p>
+                                    <!--p>There are many variations of passages of content available, but the majority</p-->
                                     <a class="preview" href="images/portfolio/full/freeShape/9.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Увеличить</a>
                                 </div> 
                             </div>
