@@ -10,12 +10,12 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(images/slider/bg-town.jpg)">
+                <div class="item active" style="background-image: url(images/slider/2.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Тезис</h1>
+                                    <!--h1 class="animation animated-item-1">Тезис</!--h1>
                                     <h2 class="animation animated-item-2">краткое описание</h2>
                                  <!--   <a class="btn-slide animation animated-item-3" href="#">Read More</a>-->
                                 </div>
@@ -31,12 +31,12 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(images/slider/bg-town2.jpg)">
+                <div class="item" style="background-image: url(images/slider/1.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Тезис</h1>
+                                    <!--h1 class="animation animated-item-1">Тезис</!--h1>
                                     <h2 class="animation animated-item-2">краткое описание</h2>
                                   <!--  <a class="btn-slide animation animated-item-3" href="#">Read More</a> -->
                                 </div>
@@ -52,12 +52,12 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(images/slider/bg-led.jpg)">
+                <div class="item" style="background-image: url(images/slider/3.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Тезис</h1>
+                                    <!--h1 class="animation animated-item-1">Тезис</!--h1>
                                     <h2 class="animation animated-item-2">краткое описание</h2>
                                   <!--  <a class="btn-slide animation animated-item-3" href="#">Read More</a> -->
                                 </div>
