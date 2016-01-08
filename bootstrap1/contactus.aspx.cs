@@ -26,13 +26,7 @@ public partial class contactus : System.Web.UI.Page
                 mailMessage.To.Add("info@ledproduct.kz");
                 SmtpClient smtp = new SmtpClient();
                 smtp.Host = "mail.ledproduct.kz";
-                smtp.EnableSsl = true;
-                System.Net.NetworkCredential NetworkCred = new System.Net.NetworkCredential();
-                NetworkCred.UserName = "info@ledproduct.kz";
-                NetworkCred.Password = "infonurpass123";
-                smtp.UseDefaultCredentials = true;
-                smtp.Credentials = NetworkCred;
-                smtp.Port = 587;
+                smtp.Port = 25;
                 smtp.Send(mailMessage);
                 txtName.Text = String.Empty;
                 txtemail.Text = String.Empty;
