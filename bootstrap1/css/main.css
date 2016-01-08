@@ -2752,3 +2752,19 @@ Max width before this PARTICULAR table gets nasty
 This query will take effect for any screen smaller than 760px
 and also iPads specifically.
 */
+
+html {
+     position: relative;
+     min-height: 100%;
+ }
+ 
+ body {
+     margin: 0 0 82px; /* bottom = footer height */
+ }
+ 
+ footer {
+     position: absolute;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+ }
