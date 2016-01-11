@@ -2772,8 +2772,15 @@ html {
      bottom: 0;
      width: 100%;
  }
+
 @media (max-device-width:820px) {
     #main-slider .carousel .item {
         height: auto !important;
+    }
+}
+
+@media (max-device-width:420px) {
+    #footer {
+        padding: 15px 0px 15px 0px;
     }
 }
