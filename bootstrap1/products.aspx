@@ -40,7 +40,7 @@
                   <a href="productsPages/a0type.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="A0 - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="A0 - type" src="images/products/novastar/A0.jpg" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 A0 - type</h4>
@@ -69,7 +69,7 @@
                  <a href="productsPages/aitype.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="Ai - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="Ai - type" src="images/products/novastar/Ai.jpg" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 Ai - type</h4>
@@ -99,7 +99,7 @@
                  <a href="productsPages/r0type.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="R0 - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="R0 - type" src="images/products/novastar/Ro.jpg" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 R0 - type</h4>
@@ -128,7 +128,7 @@
                   <a href="productsPages/rftype.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="Rf - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="Rf - type" src="images/products/novastar/Rf.jpg" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                Rf - type</h4>
@@ -156,7 +156,7 @@
                   <a href="productsPages/ritype.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="Ri - type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="Ri - type" src="images/products/novastar/Ri.jpg" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 Ri - type</h4>
@@ -192,7 +192,7 @@
                   <a href="productsPages/thtype.aspx">
                 <div class="item list-group-item  col-xs-4 col-lg-4">
                     <div class="thumbnail">
-                            <img class="group list-group-image" alt="Th-type" src="images/products/item1.png" />
+                            <img class="group list-group-image" alt="Th-type" src="images/products/novastar/Th.jpg" />
                         <div class="caption">
                             <h4 class="group inner list-group-item-heading">
                                 Th-type</h4>
