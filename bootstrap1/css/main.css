@@ -2779,8 +2779,18 @@ html {
     }
 }
 
-@media (max-device-width:420px) {
+@media screen and (max-width: 420px) {
     #footer {
         padding: 15px 0px 15px 0px;
     }
+}
+
+@media screen and (max-width: 768px) {
+    .overlay {
+        display: none;
+    }
+
+   a[rel~="prettyPhoto"] {
+       pointer-events: none;
+   }
 }
