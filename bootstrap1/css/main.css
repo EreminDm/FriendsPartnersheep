@@ -1976,8 +1976,9 @@ ul.social_icons li  a i{
 
 .gmap-area .gmap iframe {
   border-radius: 50%;
-  height: 280px;
-  width: 300px;
+  height: 350px;
+  width: 430px;
+  margin-left: -90px;
 }
 
 .gmap{
